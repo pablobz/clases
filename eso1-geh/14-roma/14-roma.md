@@ -49,6 +49,6 @@
 5. Eje cronológico de la Antigua Roma.
 6. Definiciones de monarquía, república e imperio.
 7. Mapa de la expansión.
-20. Diario de aprendizaje.
+20. Reflexión final del aprendizaje.
 
 
