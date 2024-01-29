@@ -89,13 +89,32 @@ Organizar la explicación en conjunto. Primera época, sociedad, cultura, etc. S
 
 ### La época de los reinos de taifas
 
-Texto + Ampliaciones
+#### Los primeros reinos de taifas
 
-La sociedad andalusí estaba muy divida por motivos étnicos y políticos. Había muchos grupos dentro de al-Ándalus: árabes, beréberes y muladíes competían por el control. Además había muchos clanes y familias que ansiaban hacerse con el poder y enriquecerse. Cuando murió Almanzor, como no había un heredeero fuerte para gobernar el califato, muchos territorios aprovecharon para convertirse en reinos independientes. Con el tiempo, estos reinos se llamaron taifas. 
+Califato -> Taifas (?)
 
-Las taifas construyeron hermosos edificios y desarrollaron enormemente la cultura, el arte y la ciencia. Sin embargo, tenían un problema. Al ser reinos pequeños y débiles, no podían defenderse por sí solos de los ataques cristianos. Intentaron sobrevivir pagando impuestos a sus enemigos del Norte para que no los atacaran, pero en el fondo la situación no mejoraba: cada año, las taifas eran más pobres y los reinos cristianos más ricos.
+La sociedad andalusí estaba muy divida por motivos étnicos y políticos. Había muchos grupos dentro de al-Ándalus: árabes, beréberes y muladíes competían por el control. Además había muchos clanes y familias que ansiaban hacerse con el poder y enriquecerse. Cuando murió Almanzor, como no había un heredero fuerte para gobernar el califato, muchas familias aprovecharon para convertir sus territorios en reinos independientes. Con el tiempo, estos reinos se llamaron taifas. 
+
+Parias
+
+Las taifas construyeron hermosos edificios y desarrollaron enormemente la cultura, el arte y la ciencia. Sin embargo, tenían un problema. Al ser reinos pequeños y débiles, no podían defenderse por sí solos de los ataques cristianos. Durante un tiempo evitaron esos ataques pagando a sus enemigos unos tributos que se llamaron parias, pero eso, en el fondo, no solucionaba el problema, sólo lo atrasaba; cada año, las taifas eran más pobres y los reinos cristianos más ricos.
+
+Toledo -> Almorávides
 
 En el año 1085, los cristianos conquistaron la ciudad de Toledo, una de las más importantes de la península. Los musulmanes se asustaron y buscaron ayuda fuera de España. En Marruecos se había formado un fuerte imperio musulmán que estaba en crecimiento. Eran los almorávides.
+
+Materiales
+
++ Mapas de las diferentes etapas: Califato, parias, avance cristiano, almorávides.
+
+Para comprender:
+
++ Define taifa
++ Define paria
++ Explica por qué las parias no solucionaron el problema de las taifas
++ ¿Quiénes eran los almorávides?
++ Desarrolla una frase con: 
+    + Al-Ándalus, Califato, taifas.
 
 Para reflexionar:
 
@@ -109,4 +128,11 @@ Para ampliar:
 + Abederramán Sanchuelo
 + El arte y la cultura de los reinos de taifas
 + La filosofía y la ciencia de los reinos de taifas
++ La conquista de Toledo
 + Historia de los almorávides
+
+Para crear:
+
++ Inventa un personaje de la época y cuenta su visión de uno de los hechos anteriores.
++ Convence al jefe de un clan de que debe apoyar al califa de Córdoba.
++ Cuenta una historia (real o ficticia, pero actual) que te recuerde a lo que has aprendido (paso del Califato a las taifas, pago de parias para defenderse)
