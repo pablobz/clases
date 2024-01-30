@@ -24,5 +24,4 @@ Por otra parte, los apuntes digitales tienen sus propias ventajas:
 
 1. Se pueden repasar por la tarde, sobre todo si van integrados con preguntas y actividades de autoevaluación.
 2. Se pueden diseñar itinerarios personalizados de repaso, refuerzo y ampliación.
-
-
+3. Se puede trabajar la MEMORIA ESPACIADA, introduciendo preguntas de repaso tanto abiertas como de rellenado de huecos o tipo test.
