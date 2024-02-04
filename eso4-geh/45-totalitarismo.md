@@ -48,9 +48,9 @@ La Sociedad de Naciones
 
 La crisis política
 
-Los países vencedores de la guerra eran países democráticos. Y lo habían sido durante mucho tiempo. La democracia era algo asentado y su población no se planteaba otra cosa. Después de la guerra, cuando se reunieron en la Paz de París, decidieron imponer ese sistema a los países derrotados. Lo hicieron con buena intención. Pensaron que la democracia traería consigo progreso económico, libertad y deseos de paz, y que era el mejor camino para crear un mundo mejor. 
+Los países vencedores de la guerra eran países democráticos. Y lo habían sido durante mucho tiempo. La democracia era algo asentado y su población no se planteaba otra cosa. Después de la guerra, cuando se reunieron en la Paz de París, decidieron imponer ese sistema a los países derrotados. Lo hicieron con buena intención. Pensaron que la democracia traería consigo progreso económico, libertad y deseos de paz, y que era el mejor camino para crear un mundo mejor. Además, el país al que habían culpado de la guerra, el Imperio alemán, no era una democracia, como tampoco lo era su mayor aliado, el Imperio austrohúngaro.
 
-En los países derrotados, sin embargo, la democracia era algo nuevo, desconocido para gran parte de la población. Además, no había surgido por su propio empeño sino que había sido impuesta por los vendedores. Algunos la recibieron con cautela. Otros muchos la rechazaron.
+En los países derrotados, sin embargo, la democracia era algo nuevo, desconocido para gran parte de la población, y no había surgido por su propio empeño sino que había sido impuesta por los vendedores. Algunos la recibieron con cautela. Otros muchos la rechazaron.
 
 MEM: ¿Por qué los vencedores impusieron la democracia a los perdedores?
 MEM: ¿Por qué éstos la rechazaron?
