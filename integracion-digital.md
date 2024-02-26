@@ -1,3 +1,4 @@
+
 # Usar en clase la pizarra digital
 
 Plantea diferentes problemas:
@@ -36,3 +37,8 @@ Pautas para mejorar EN clase:
 4. Santificar la EFICIENCIA en clase. Dar clases eficientes.
 5. La principal regla de la eficiencia es que lo más importante es lo que dice el profesor, porque es lo único que no se puede replicar en casa. Hay que eliminar las distracciones y no hacer dos cosas a la vez. Cuando habla el profesor los alumnos tienen que atender a eso y a nada más.
 
+---
+
+Hacer del inquiry la clave. De los conocimientos previos o, en su ausencia, de la reflexión.
+
+Crisis de la república. No empezar a impartirla y ya está. Empezar con un debate sobre el peligro de que, en un futuro, la iA reemplace el trabajo humano. Pensar más allá de lo individual, en lo social, en los peligros para la comunidad. Luego, a partir de ahí, anunciar que eso ya pasó en Roma, y estudiarlo desde el interés de saber cómo lo solucionaron.
