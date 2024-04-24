@@ -89,3 +89,13 @@ Pero surge un problema. Esa forma de evaluar limita la cantidad de actividades q
 - Todo lo que se evalúe debe ser propio, original y/o defendido en clase.
 - Se deben evaluar criterios y competencias de diferentes maneras.
 - Se debe evaluar el proceso y el trabajo diario.
+
+---
+
+El descubrimiento
+
+El ideal ejemplificado por la película mexicana Radical, el aprendizaje por descubrimiento, ¿podría realmente funcionar?
+
+No lo creo.
+
+Pero lo que queda es la importancia de motivar. Tirar de los conocimientos previos y de la aplicabilidad.
